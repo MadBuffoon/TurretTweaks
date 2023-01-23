@@ -1,0 +1,10 @@
+bin/
+bin/Debug/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/
+.vs/
+TurretTweaks.sln.DotSettings.user
+/bin/
